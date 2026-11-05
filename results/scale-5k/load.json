@@ -1,0 +1,10 @@
+{
+  "Students": 5000,
+  "Enrollments": 172500,
+  "Grades": 945000,
+  "PGTables": 2762380959,
+  "PGTablesIndexes": 1751383042,
+  "PGJSONB": 5293304915,
+  "Mongo": 1961178415,
+  "MongoIndexes": 319855833
+}
